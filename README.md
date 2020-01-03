@@ -11,7 +11,6 @@ By the way, this is the graph of training process:
 <img src="https://github.com/herybala/yolov3-multilabel-detections/blob/master/data/v2/results.png" height="416" width="1024">
 The config used is the simplest : yolov3-ssp.cfg
 # Detections results:
-These are some results:
 <img src="https://github.com/herybala/yolov3-multilabel-detections/blob/master/output/det1.jpg" height="512" width="512">
 <img src="https://github.com/herybala/yolov3-multilabel-detections/blob/master/output/det2.jpg" height="512" width="512">
 <img src="https://github.com/herybala/yolov3-multilabel-detections/blob/master/output/det3.jpg" height="512" width="512">
