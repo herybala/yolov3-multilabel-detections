@@ -1,0 +1,6 @@
+classes=8
+train=/content/drive/My Drive/Data/v2/v2.txt
+valid=/content/drive/My Drive/Data/v2/v2.txt
+names=data/v2/v2.names
+backup=backup/
+eval=voc
