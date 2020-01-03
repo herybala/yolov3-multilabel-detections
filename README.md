@@ -15,5 +15,6 @@ The config used is the simplest : yolov3-ssp.cfg
 <img src="https://github.com/herybala/yolov3-multilabel-detections/blob/master/output/det2.jpg" height="512" width="512">
 <img src="https://github.com/herybala/yolov3-multilabel-detections/blob/master/output/det3.jpg" height="512" width="512">
 <img src="https://github.com/herybala/yolov3-multilabel-detections/blob/master/output/det4.jpg" height="512" width="512">
+
 # Training model:
 If you want to train your own model, go to https://github.com/ultralytics/yolov3.
